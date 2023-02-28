@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "78424be314842833c04bc3bef5b72e85fff99204",
+        "version" : "5.6.4"
+      }
+    },
+    {
+      "identity" : "yubikit-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Yubico/yubikit-ios",
+      "state" : {
+        "revision" : "0d8c74a99d634b048a0a3ded32f8382e989079c5",
+        "version" : "4.3.0"
+      }
+    }
+  ],
+  "version" : 2
+}
